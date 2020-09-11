@@ -1,3 +1,5 @@
+# This bot is very out-of-date and not properly working. Consider choosing an alternative
+
 [license]: https://img.shields.io/badge/License-The%20Unlicense-yellow.svg?style=for-the-badge
 [Issues]: https://img.shields.io/github/issues/nanderLP/Bit.svg?color=yellow&style=for-the-badge
 [Travis-CI]: https://img.shields.io/travis/com/nanderLP/Bit.svg?color=yellow&style=for-the-badge
